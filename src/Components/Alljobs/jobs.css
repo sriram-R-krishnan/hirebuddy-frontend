@@ -1,0 +1,12 @@
+.jobs{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.jobcard{
+    width: 25rem;
+    background-color: rgb(216, 239, 255);
+    border-radius: 10px;
+    margin: 0.5rem;
+    padding: 1rem;
+}
